@@ -1,3 +1,17 @@
+Fixes #12092
+
+## Impact of change
+
+* Add closed_caption under plan_traits and customer_plan_traits
+
+### Are there any migrations?
+
+  No
+
+### Are there any post deploy task?
+
+  No
+  
 # DOM to Image
 
 [![Build Status](https://travis-ci.org/tsayen/dom-to-image.svg?branch=master)](https://travis-ci.org/tsayen/dom-to-image)
